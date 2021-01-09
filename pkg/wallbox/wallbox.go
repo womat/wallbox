@@ -110,7 +110,6 @@ func (m *Measurements) Read() (err error) {
 		m.Power = 0
 	}
 
-	m.Runtime = data.Runtime
 	m.Timestamp = time.Now()
 	return
 }
