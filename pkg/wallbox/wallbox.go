@@ -10,7 +10,7 @@ import (
 	"sync"
 	"time"
 
-	"wallbox/pkg/debug"
+	"github.com/womat/debug"
 )
 
 const httpRequestTimeout = 10 * time.Second

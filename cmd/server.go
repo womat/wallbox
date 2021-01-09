@@ -3,7 +3,8 @@ package main
 import (
 	"time"
 
-	"wallbox/pkg/debug"
+	"github.com/womat/debug"
+
 	"wallbox/pkg/wallbox"
 )
 

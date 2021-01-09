@@ -6,8 +6,9 @@ import (
 	"net/http"
 	"strconv"
 
+	"github.com/womat/debug"
+
 	"wallbox/global"
-	"wallbox/pkg/debug"
 )
 
 func init() {

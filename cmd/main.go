@@ -7,8 +7,9 @@ import (
 	"syscall"
 	"time"
 
+	"github.com/womat/debug"
+
 	"wallbox/global"
-	"wallbox/pkg/debug"
 	"wallbox/pkg/wallbox"
 )
 

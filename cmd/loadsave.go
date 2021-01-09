@@ -5,8 +5,9 @@ import (
 	"io/ioutil"
 	"time"
 
-	"wallbox/pkg/debug"
-	"wallbox/pkg/tools"
+	"github.com/womat/debug"
+	"github.com/womat/tools"
+
 	"wallbox/pkg/wallbox"
 )
 

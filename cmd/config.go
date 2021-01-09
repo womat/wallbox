@@ -9,9 +9,10 @@ import (
 	"path/filepath"
 	"time"
 
+	"github.com/womat/debug"
+
 	"wallbox/global"
 	"wallbox/pkg/config"
-	"wallbox/pkg/debug"
 )
 
 // defaultInterval defines the default of dataCollectionInterval and backupInterval (in seconds)
